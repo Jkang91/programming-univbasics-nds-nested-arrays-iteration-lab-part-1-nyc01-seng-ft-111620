@@ -1,7 +1,10 @@
-array_of_arrays = 
+
 
 def find_even_values(src)
-  
+  count = 0 
+  while count < scr.length do 
+    inner_count = 0 
+    while inner_count < count
 
 end
 
